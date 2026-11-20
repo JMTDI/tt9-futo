@@ -1,3 +1,5 @@
+> **Attention @badge:** The new repository is [JMTDI/tt9](https://github.com/JMTDI/tt9).
+
 # Traditional T9 ![GitHub Downloads (latest release)](https://img.shields.io/github/downloads/JMTDI/tt9-futo/latest/total)
 
 TT9 is a Nokia-style 12-key T9 keyboard for Android. It provides predictive text input in [40+ languages](app/languages/definitions), configurable hotkeys, clipboard, undo/redo, and extensive customization. It works on touchscreens, physical keypads, and TV remote controls. And best of all, it [doesn't spy](docs/privacy.md) on you!

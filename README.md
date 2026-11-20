@@ -1,4 +1,4 @@
-> **⚠️ Attention** The new repository is [JMTDI/tt9](https://github.com/JMTDI/tt9).
+> **⚠️ Attention:** The new repository is [JMTDI/tt9](https://github.com/JMTDI/tt9).
 
 # Traditional T9 ![GitHub Downloads (latest release)](https://img.shields.io/github/downloads/JMTDI/tt9-futo/latest/total)
 
